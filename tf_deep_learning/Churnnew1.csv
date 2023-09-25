@@ -1,0 +1,26 @@
+﻿Gender,Senior Citizen,Partner,Dependents,tenure,Phone Service,Monthly Charges,Total Charges,Payment Method,Churn
+Female,0,Yes,No,1,No,29.85,29.85,Electronic check,No
+Female,0,Yes,No,1,No,29.85,29.85,Electronic check,No
+Male,0,No,No,34,Yes,56.95,1889.5,Mailed check,No
+Male,0,No,No,2,Yes,53.85,108.15,Mailed check,Yes
+Male,0,No,No,45,No,42.3,1840.75,Bank transfer (automatic),No
+Female,0,No,No,2,Yes,70.7,151.65,Electronic check,Yes
+Female,0,No,No,8,Yes,99.65,820.5,Electronic check,Yes
+Male,0,No,Yes,22,Yes,89.1,1949.4,Credit card (automatic),No
+Female,0,No,No,10,No,29.75,301.9,Mailed check,No
+Female,0,Yes,No,28,Yes,104.8,3046.05,Electronic check,Yes
+Male,0,No,Yes,62,Yes,56.15,3487.95,Bank transfer (automatic),No
+Male,0,Yes,Yes,13,Yes,49.95,587.45,Mailed check,No
+Male,0,No,No,16,Yes,18.95,326.8,Credit card (automatic),No
+Male,0,Yes,No,58,Yes,100.35,5681.1,Credit card (automatic),No
+Male,0,No,No,49,Yes,103.7,5036.3,Bank transfer (automatic),Yes
+Male,0,No,No,25,Yes,105.5,2686.05,Electronic check,No
+Female,0,Yes,Yes,69,Yes,113.25,7895.15,Credit card (automatic),No
+Female,0,No,No,52,Yes,20.65,1022.95,Mailed check,No
+Male,0,No,Yes,71,Yes,106.7,7382.25,Bank transfer (automatic),No
+Female,0,Yes,Yes,10,Yes,55.2,528.35,Credit card (automatic),Yes
+Female,0,No,No,21,Yes,90.05,1862.9,Electronic check,No
+Male,1,No,No,1,No,39.65,39.65,Electronic check,Yes
+Male,0,Yes,No,12,Yes,19.8,202.25,Bank transfer (automatic),No
+Male,0,No,No,1,Yes,20.15,20.15,Mailed check,Yes
+Female,0,Yes,No,58,Yes,59.9,3505.1,Credit card (automatic),No
